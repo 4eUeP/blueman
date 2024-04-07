@@ -196,4 +196,11 @@
       <description>Amount of time in seconds discoverable mode will last</description>
     </key>
   </schema>
+  <schema id="org.blueman.plugins.connectionnotifier" path="/org/blueman/plugins/connectionnotifier/">
+    <key type="b" name="battery-update">
+      <default>true</default>
+      <summary></summary>
+      <description></description>
+    </key>
+  </schema>
 </schemalist>
